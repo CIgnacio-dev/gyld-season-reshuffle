@@ -5,6 +5,13 @@ Aligned with Gyld’s principles of **seasons, rituals, and community trust**: r
 
 ---
 
+##  Requirements
+
+- **Node.js >= 18.x**
+- Uses **ESM** under the hood, so we run with:  
+  ```bash
+  npx tsx ...
+
 ## 🚀 Run Instructions
 
 Install dependencies:
@@ -20,6 +27,7 @@ npx tsx src/index.ts --teams 3 --input data/level_a_players.xlsx
 Options:
 - `--teams <N>` (required): number of teams to form.
 - `--input <path>` (optional): `.xlsx` or `.csv` dataset. Default: `data/level_a_players.xlsx`.
+
 
 Outputs:
 - **Console**: `player_id,new_team` mapping + per-team summary + justification.
