@@ -1,0 +1,1 @@
+In ESM, XLSX.readFile is not a function. How can I update readData to read the file as a buffer (XLSX.read(buf, { type: 'buffer' })) while keeping CSV support as a fallback?

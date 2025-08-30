@@ -1,0 +1,1 @@
+Outline an approach for a TypeScript/ESM CLI that reads Level A (XLSX), computes a simple engagement score, and assigns players to T teams deterministically with a snake draft. Please align the language with Gyld’s concepts (season reshuffle, community trust).

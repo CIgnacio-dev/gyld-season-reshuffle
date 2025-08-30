@@ -1,0 +1,1 @@
+I’m getting ERR_UNKNOWN_FILE_EXTENSION when running TS ESM on Windows. What are reliable options for running it (ts-node/esm vs tsx), and what package.json/tsconfig settings are recommended for NodeNext + ESM?
